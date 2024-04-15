@@ -6,7 +6,7 @@
 - Introduction to list objects
 - __Team work:__ List operations
 
- 1.Define a list of numbers [10, 20, 30, 40, 50] \n
+ 1.Define a list of numbers [10, 20, 30, 40, 50]
  2.Print the length of the list.
  3.Print the first element of the list.
  4.Print the last element of the list.
